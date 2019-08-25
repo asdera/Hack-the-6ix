@@ -1,0 +1,32 @@
+{
+    "Entities": [
+        {
+            "Score": 0.732603132724762,
+            "Type": "ORGANIZATION",
+            "Text": "Boost Beats",
+            "BeginOffset": 7,
+            "EndOffset": 18
+        },
+        {
+            "Score": 0.8527571558952332,
+            "Type": "ORGANIZATION",
+            "Text": "Soundcloud Promotion",
+            "BeginOffset": 34,
+            "EndOffset": 54
+        },
+        {
+            "Score": 0.9986855387687683,
+            "Type": "PERSON",
+            "Text": "Lil Tay",
+            "BeginOffset": 344,
+            "EndOffset": 351
+        },
+        {
+            "Score": 0.9977547526359558,
+            "Type": "PERSON",
+            "Text": "Jay Z",
+            "BeginOffset": 356,
+            "EndOffset": 361
+        }
+    ]
+}

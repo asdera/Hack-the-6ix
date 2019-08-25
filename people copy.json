@@ -1,0 +1,101 @@
+{    
+    "People": [
+        {
+            "Name": "Andrew",
+            "Entities": [
+                {
+                    "Score": 0.732603132724762,
+                    "Type": "ORGANIZATION",
+                    "Text": "Boost Beats"
+                },
+                {
+                    "Score": 0.8527571558952332,
+                    "Type": "ORGANIZATION",
+                    "Text": "Soundcloud Promotion"
+                },
+                {
+                    "Score": 0.9986855387687683,
+                    "Type": "PERSON",
+                    "Text": "Lil Tay"
+                },
+                {
+                    "Score": 0.9977547526359558,
+                    "Type": "PERSON",
+                    "Text": "Jay Z"
+                }
+            ],
+            "KeyPhrases": [
+                {
+                    "Score": 0.9839431643486023,
+                    "Text": "Boost Beats"
+                },
+                {
+                    "Score": 0.9923607707023621,
+                    "Text": "Soundcloud Promotion"
+                },
+                {
+                    "Score": 0.9999327063560486,
+                    "Text": "The goal"
+                },
+                {
+                    "Score": 0.9833444356918335,
+                    "Text": "many producers"
+                },
+                {
+                    "Score": 0.9964414834976196,
+                    "Text": "their beats"
+                },
+                {
+                    "Score": 0.9934079647064209,
+                    "Text": "our platform"
+                },
+                {
+                    "Score": 0.9971535205841064,
+                    "Text": "producers"
+                },
+                {
+                    "Score": 0.9734300971031189,
+                    "Text": "beats"
+                },
+                {
+                    "Score": 0.9995715618133545,
+                    "Text": "a rundown"
+                },
+                {
+                    "Score": 0.8997775316238403,
+                    "Text": "the free members"
+                },
+                {
+                    "Score": 0.9969267249107361,
+                    "Text": "premium members"
+                },
+                {
+                    "Score": 0.9992496967315674,
+                    "Text": "a current sketch"
+                },
+                {
+                    "Score": 0.8925611972808838,
+                    "Text": "Rappers"
+                },
+                {
+                    "Score": 0.8987058997154236,
+                    "Text": "Lil Tay"
+                },
+                {
+                    "Score": 0.9989390969276428,
+                    "Text": "Jay Z"
+                },
+                {
+                    "Score": 0.9854007959365845,
+                    "Text": "More rappers"
+                }
+            ],
+            "Sentiment": {
+                "Positive": 0.4259358048439026,
+                "Negative": 0.00024751530145294964,
+                "Neutral": 0.5701755285263062,
+                "Mixed": 0.003641176037490368
+            }
+        }
+    ]
+}
